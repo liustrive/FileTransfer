@@ -1,0 +1,241 @@
+2014-02-23 00:00:36,093 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0020
+2014-02-23 00:00:36,099 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0020' of user 'liu'
+2014-02-23 00:00:36,099 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0020_conf.xml
+2014-02-23 00:01:36,100 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0022
+2014-02-23 00:01:36,101 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0023
+2014-02-23 00:01:36,101 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0022' of user 'liu'
+2014-02-23 00:01:36,101 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0022_conf.xml
+2014-02-23 00:01:36,102 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0023' of user 'liu'
+2014-02-23 00:01:36,102 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0023_conf.xml
+2014-02-23 00:06:36,103 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0024
+2014-02-23 00:06:36,104 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0024' of user 'liu'
+2014-02-23 00:06:36,104 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0024_conf.xml
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0025
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0026
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0025' of user 'liu'
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0025_conf.xml
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0026' of user 'liu'
+2014-02-23 00:17:36,107 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0026_conf.xml
+2014-02-23 00:23:36,115 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0028
+2014-02-23 00:23:36,116 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0028' of user 'liu'
+2014-02-23 00:23:36,116 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0028_conf.xml
+2014-02-23 00:24:36,119 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0029
+2014-02-23 00:24:36,119 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0029' of user 'liu'
+2014-02-23 00:24:36,119 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0029_conf.xml
+2014-02-23 00:25:36,125 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0027
+2014-02-23 00:25:36,126 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0027' of user 'liu'
+2014-02-23 00:25:36,126 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0027_conf.xml
+2014-02-23 00:29:36,127 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0030
+2014-02-23 00:29:36,128 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0030' of user 'liu'
+2014-02-23 00:29:36,128 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0030_conf.xml
+2014-02-23 00:30:36,134 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0031
+2014-02-23 00:30:36,134 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0031' of user 'liu'
+2014-02-23 00:30:36,134 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0031_conf.xml
+2014-02-23 00:34:36,138 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0032
+2014-02-23 00:34:36,138 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0032' of user 'liu'
+2014-02-23 00:34:36,139 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0032_conf.xml
+2014-02-23 16:03:36,302 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0034
+2014-02-23 16:03:36,302 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0033
+2014-02-23 16:03:36,302 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0033' of user 'liu'
+2014-02-23 16:03:36,302 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0033_conf.xml
+2014-02-23 16:03:36,303 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0034' of user 'liu'
+2014-02-23 16:03:36,303 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0034_conf.xml
+2014-02-23 16:08:36,304 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0036
+2014-02-23 16:08:36,304 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0037
+2014-02-23 16:08:36,304 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0036' of user 'liu'
+2014-02-23 16:08:36,304 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0036_conf.xml
+2014-02-23 16:08:36,305 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0037' of user 'liu'
+2014-02-23 16:08:36,305 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0037_conf.xml
+2014-02-23 16:15:36,307 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0038
+2014-02-23 16:15:36,307 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0039
+2014-02-23 16:15:36,307 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0035
+2014-02-23 16:15:36,307 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0035' of user 'liu'
+2014-02-23 16:15:36,307 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0035_conf.xml
+2014-02-23 16:15:36,309 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0038' of user 'liu'
+2014-02-23 16:15:36,309 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0038_conf.xml
+2014-02-23 16:15:36,310 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0039' of user 'liu'
+2014-02-23 16:15:36,310 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0039_conf.xml
+2014-02-23 16:21:36,311 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0040
+2014-02-23 16:21:36,311 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0040' of user 'liu'
+2014-02-23 16:21:36,311 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0040_conf.xml
+2014-02-23 16:23:36,318 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0041
+2014-02-23 16:23:36,318 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0042
+2014-02-23 16:23:36,318 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0041' of user 'liu'
+2014-02-23 16:23:36,318 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0041_conf.xml
+2014-02-23 16:23:36,318 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0042' of user 'liu'
+2014-02-23 16:23:36,319 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0042_conf.xml
+2014-02-23 16:29:36,320 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0044
+2014-02-23 16:29:36,320 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0045
+2014-02-23 16:29:36,320 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0044' of user 'liu'
+2014-02-23 16:29:36,320 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0044_conf.xml
+2014-02-23 16:29:36,321 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0045' of user 'liu'
+2014-02-23 16:29:36,321 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0045_conf.xml
+2014-02-23 16:36:36,328 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0046
+2014-02-23 16:36:36,329 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0043
+2014-02-23 16:36:36,329 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0047
+2014-02-23 16:36:36,329 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0043' of user 'liu'
+2014-02-23 16:36:36,329 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0043_conf.xml
+2014-02-23 16:36:36,330 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0046' of user 'liu'
+2014-02-23 16:36:36,330 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0046_conf.xml
+2014-02-23 16:36:36,331 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0047' of user 'liu'
+2014-02-23 16:36:36,331 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0047_conf.xml
+2014-02-23 16:41:36,332 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0048
+2014-02-23 16:41:36,333 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0048' of user 'liu'
+2014-02-23 16:41:36,333 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0048_conf.xml
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0049
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0050
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0049' of user 'liu'
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0049_conf.xml
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0050' of user 'liu'
+2014-02-23 16:59:36,337 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0050_conf.xml
+2014-02-23 17:05:36,339 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0052
+2014-02-23 17:05:36,339 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0053
+2014-02-23 17:05:36,339 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0052' of user 'liu'
+2014-02-23 17:05:36,339 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0052_conf.xml
+2014-02-23 17:05:36,340 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0053' of user 'liu'
+2014-02-23 17:05:36,340 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0053_conf.xml
+2014-02-23 17:09:36,341 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0051
+2014-02-23 17:09:36,341 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0051' of user 'liu'
+2014-02-23 17:09:36,341 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0051_conf.xml
+2014-02-23 17:11:36,343 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0054
+2014-02-23 17:11:36,343 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0055
+2014-02-23 17:11:36,343 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0054' of user 'liu'
+2014-02-23 17:11:36,343 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0054_conf.xml
+2014-02-23 17:11:36,344 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0055' of user 'liu'
+2014-02-23 17:11:36,345 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0055_conf.xml
+2014-02-23 17:16:36,346 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0056
+2014-02-23 17:16:36,346 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0056' of user 'liu'
+2014-02-23 17:16:36,346 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0056_conf.xml
+2014-02-23 17:50:36,352 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0057
+2014-02-23 17:50:36,353 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0058
+2014-02-23 17:50:36,353 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0057' of user 'liu'
+2014-02-23 17:50:36,353 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0057_conf.xml
+2014-02-23 17:50:36,353 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0058' of user 'liu'
+2014-02-23 17:50:36,353 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0058_conf.xml
+2014-02-23 17:57:36,355 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0060
+2014-02-23 17:57:36,355 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0061
+2014-02-23 17:57:36,355 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0060' of user 'liu'
+2014-02-23 17:57:36,355 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0060_conf.xml
+2014-02-23 17:57:36,356 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0061' of user 'liu'
+2014-02-23 17:57:36,356 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0061_conf.xml
+2014-02-23 18:01:36,357 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0059
+2014-02-23 18:01:36,357 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0059' of user 'liu'
+2014-02-23 18:01:36,357 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0059_conf.xml
+2014-02-23 18:03:36,359 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0062
+2014-02-23 18:03:36,359 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0063
+2014-02-23 18:03:36,359 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0062' of user 'liu'
+2014-02-23 18:03:36,359 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0062_conf.xml
+2014-02-23 18:03:36,360 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0063' of user 'liu'
+2014-02-23 18:03:36,360 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0063_conf.xml
+2014-02-23 18:09:36,362 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0064
+2014-02-23 18:09:36,362 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0064' of user 'liu'
+2014-02-23 18:09:36,362 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0064_conf.xml
+2014-02-23 18:28:36,366 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0065
+2014-02-23 18:28:36,366 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0066
+2014-02-23 18:28:36,366 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0065' of user 'liu'
+2014-02-23 18:28:36,366 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0065_conf.xml
+2014-02-23 18:28:36,367 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0066' of user 'liu'
+2014-02-23 18:28:36,367 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0066_conf.xml
+2014-02-23 18:32:36,368 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0068
+2014-02-23 18:32:36,368 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0069
+2014-02-23 18:32:36,368 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0068' of user 'liu'
+2014-02-23 18:32:36,368 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0068_conf.xml
+2014-02-23 18:32:36,369 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0069' of user 'liu'
+2014-02-23 18:32:36,369 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0069_conf.xml
+2014-02-23 18:38:36,370 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0070
+2014-02-23 18:38:36,370 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0071
+2014-02-23 18:38:36,371 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0070' of user 'liu'
+2014-02-23 18:38:36,371 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0070_conf.xml
+2014-02-23 18:38:36,376 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0071' of user 'liu'
+2014-02-23 18:38:36,376 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0071_conf.xml
+2014-02-23 18:39:36,377 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0067
+2014-02-23 18:39:36,378 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0067' of user 'liu'
+2014-02-23 18:39:36,378 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0067_conf.xml
+2014-02-23 18:44:36,383 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0072
+2014-02-23 18:44:36,383 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0072' of user 'liu'
+2014-02-23 18:44:36,384 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0072_conf.xml
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0073
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0074
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0073' of user 'liu'
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0073_conf.xml
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0074' of user 'liu'
+2014-02-23 19:05:36,388 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0074_conf.xml
+2014-02-23 19:06:36,389 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0075
+2014-02-23 19:06:36,389 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0075' of user 'liu'
+2014-02-23 19:06:36,389 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0075_conf.xml
+2014-02-23 19:07:36,390 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0077
+2014-02-23 19:07:36,390 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0076
+2014-02-23 19:07:36,390 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0076' of user 'liu'
+2014-02-23 19:07:36,390 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0076_conf.xml
+2014-02-23 19:07:36,391 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0077' of user 'liu'
+2014-02-23 19:07:36,391 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0077_conf.xml
+2014-02-23 19:08:36,391 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0078
+2014-02-23 19:08:36,391 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0079
+2014-02-23 19:08:36,392 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0078' of user 'liu'
+2014-02-23 19:08:36,392 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0078_conf.xml
+2014-02-23 19:08:36,392 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0079' of user 'liu'
+2014-02-23 19:08:36,392 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0079_conf.xml
+2014-02-23 19:09:36,393 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0080
+2014-02-23 19:09:36,393 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0080' of user 'liu'
+2014-02-23 19:09:36,393 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0080_conf.xml
+2014-02-23 19:20:36,395 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0081
+2014-02-23 19:20:36,395 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0082
+2014-02-23 19:20:36,395 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0081' of user 'liu'
+2014-02-23 19:20:36,395 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0081_conf.xml
+2014-02-23 19:20:36,396 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0082' of user 'liu'
+2014-02-23 19:20:36,396 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0082_conf.xml
+2014-02-23 19:22:36,396 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0084
+2014-02-23 19:22:36,396 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0085
+2014-02-23 19:22:36,397 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0083
+2014-02-23 19:22:36,397 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0083' of user 'liu'
+2014-02-23 19:22:36,397 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0083_conf.xml
+2014-02-23 19:22:36,397 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0084' of user 'liu'
+2014-02-23 19:22:36,397 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0084_conf.xml
+2014-02-23 19:22:36,398 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0085' of user 'liu'
+2014-02-23 19:22:36,398 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0085_conf.xml
+2014-02-23 19:23:36,398 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0086
+2014-02-23 19:23:36,399 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0087
+2014-02-23 19:23:36,399 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0086' of user 'liu'
+2014-02-23 19:23:36,399 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0086_conf.xml
+2014-02-23 19:23:36,399 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0087' of user 'liu'
+2014-02-23 19:23:36,399 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0087_conf.xml
+2014-02-23 19:25:36,400 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0088
+2014-02-23 19:25:36,400 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0088' of user 'liu'
+2014-02-23 19:25:36,400 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0088_conf.xml
+2014-02-23 19:56:36,405 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0090
+2014-02-23 19:56:36,406 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0089
+2014-02-23 19:56:36,406 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0089' of user 'liu'
+2014-02-23 19:56:36,406 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0089_conf.xml
+2014-02-23 19:56:36,406 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0090' of user 'liu'
+2014-02-23 19:56:36,406 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0090_conf.xml
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0092
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0091
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0093
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0094
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0091' of user 'liu'
+2014-02-23 19:57:36,407 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0091_conf.xml
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0092' of user 'liu'
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0092_conf.xml
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0093' of user 'liu'
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0093_conf.xml
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0094' of user 'liu'
+2014-02-23 19:57:36,408 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0094_conf.xml
+2014-02-23 19:58:36,409 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0096
+2014-02-23 19:58:36,409 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0096' of user 'liu'
+2014-02-23 19:58:36,409 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0096_conf.xml
+2014-02-23 19:59:36,410 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0097
+2014-02-23 19:59:36,410 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0095
+2014-02-23 19:59:36,410 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0095' of user 'liu'
+2014-02-23 19:59:36,410 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0095_conf.xml
+2014-02-23 19:59:36,411 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0097' of user 'liu'
+2014-02-23 19:59:36,411 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0097_conf.xml
+2014-02-23 20:00:36,411 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0098
+2014-02-23 20:00:36,411 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0099
+2014-02-23 20:00:36,411 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0098' of user 'liu'
+2014-02-23 20:00:36,411 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0098_conf.xml
+2014-02-23 20:00:36,412 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0099' of user 'liu'
+2014-02-23 20:00:36,412 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0099_conf.xml
+2014-02-23 20:02:36,413 INFO org.apache.hadoop.mapred.JobTracker: Removing from userToJobsMap: job_201402212208_0100
+2014-02-23 20:02:36,413 INFO org.apache.hadoop.mapred.JobTracker: Retired job with id: 'job_201402212208_0100' of user 'liu'
+2014-02-23 20:02:36,413 INFO org.apache.hadoop.mapred.JobHistory: Deleting localized job conf at /home/liu/hadoop-1.2.1/libexec/../logs/job_201402212208_0100_conf.xml
+2014-02-23 22:08:35,636 INFO org.apache.hadoop.security.token.delegation.AbstractDelegationTokenSecretManager: Updating the current master key for generating delegation tokens
